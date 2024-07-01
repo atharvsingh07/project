@@ -1,0 +1,116 @@
+
+*{
+  margin: 0%;
+  padding: 0%;
+}
+body{
+ background-color: rgb(31, 28, 28);
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 100vh;
+   height: 2000px;
+  
+}
+.s1{
+  margin: 5px;
+  padding: 5px;
+  color: antiquewhite;
+  float: left;
+  border: 5px solid white;
+ 
+}
+.s2{
+  margin: 5px;
+  padding: 5px;
+  color: antiquewhite;
+  float: left;
+  border: 5px solid #0e2bbb;
+  background-color:#ffffff;
+}
+.c1{
+  background-color: black;
+  height: 60px;
+  margin-top: 1px;
+  position:fixed;
+  width: 100%;
+  top: -1px;
+}
+.tv{
+  float:right;
+  color: blanchedalmond;
+  font-size: 12px;
+  font-family:sans-serif;
+  font-weight: 100;
+  margin-top: 20px;
+}
+.join{
+   background-color: rgb(237, 15, 15);
+   float:right;
+   color: white;
+   font-size: 12px;
+   margin-left: 10px;
+   margin-right: 10px;
+   padding: 10px 25px;
+   margin-top: 10px;
+   font-family: sans-serif;
+   font-weight: 100;
+   border-radius: 3px;
+}
+.sign{
+  background-color: rgb(0, 0, 0);
+  float:right;
+  color: white;
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: 100;
+  border-radius: 3px;
+  border:1px solid white;
+ margin:10px 40px 10px 1px;
+ padding: 9px 20px 9px 20px;
+
+
+}
+.net{
+  font-family: sans-serif;
+  font-weight:900;
+  font-size:50px;
+  color: white;
+  margin-top: 50px;
+  margin-left: 30px;
+  margin-bottom: 1px;
+}
+pre.co{
+  font-family: sans-serif;
+  font-weight:300;
+  font-size:20px;
+  color: white;
+  margin-top: 1px;
+  padding-left: 1px;
+  padding-top: 5px;
+  margin-left: 0%;
+}
+.pop{
+  color: white;
+  font-family: sans-serif;
+  font-weight:300;
+  font-size:20px;
+  margin-left:45px;
+}
+.name{
+  color: white;
+  font-family: sans-serif;
+  font-weight:300;
+
+}
+.main{
+  position: sticky;
+}
+
+
+
+
+
+
+
+
+  
